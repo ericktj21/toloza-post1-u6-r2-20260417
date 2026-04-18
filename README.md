@@ -24,4 +24,13 @@ Aplicacion MVC con Servlet, capa DAO en memoria y JSP para CRUD completo.
 ## Entrega GitHub
 Nombre sugerido: `apellido-post1-u6`
 
-Publicacion independiente r2: 2026-04-17 07:26:38
+## Capturas de Pantalla de la Aplicación
+
+**1. Listado de Productos (Tabla Principal):**
+![Listado de productos](img/captura-listado.png)
+
+**2. Formulario de Registro (Nuevo Producto):**
+![Registro de producto](img/captura-registro.png)
+
+**3. Formulario de Edición (Actualizar Producto):**
+![Edición de producto](img/captura-edicion.png)
